@@ -1,0 +1,7 @@
+1
+00:00:00,460 --> 00:00:08,100
+Hi, this is a speech recognition project of mine, where I am using ASR tools, so I guess
+
+2
+00:00:08,100 --> 00:00:12,060
+you could understand this is for the test of my speech recognition project.

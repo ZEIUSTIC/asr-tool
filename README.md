@@ -115,3 +115,8 @@ Clear English speech with the `base` model typically gives a WER under ~10%. Use
 
 ## License
 MIT
+## Test Results
+- Model: base (CPU, macOS)
+- Audio: 15 s English recording
+- Transcript: "<your output>"
+- WER: X.XX%
