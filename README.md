@@ -41,7 +41,7 @@ asr-tool/
 
 ## Installation
 ```bash
-git clone https://github.com/<your-username>/asr-tool.git
+git clone https://github.com/ZEIUSTIC/asr-tool.git
 cd asr-tool
 
 python -m venv .venv
